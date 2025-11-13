@@ -1,2 +1,3 @@
 # IT115_Midterm
-#AAron Kempley
+AAron Kempley
+<span style="color purple;">I like Purple.</span>
